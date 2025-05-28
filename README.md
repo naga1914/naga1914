@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Nagarani</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | UI/UX Enthusiast | Creative Coder | Future Tech Explorer</h3>
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" padding="50px" />
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" padding="50%" />
 
 ### 🌟 About Me
 
@@ -14,9 +14,9 @@
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- **Frameworks**: React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Tools**: Figma, Framer Motion, GSAP, Redux, Zustand, Vite  
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), Java
+- **Frameworks**: React.js, Tailwind CSS, Bootstrap  
+- **Tools**: Figma, Framer Motion, GSAP, Redux, Vite, Git,Github
 
 #### 💡 Other Skills
 - Git & GitHub, Responsive Design, UI/UX Design  
@@ -46,8 +46,8 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nagarani1914)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-blueviolet?style=for-the-badge)](https://nagarani-portfolio.vercel.app/)  
+[LinkedIn](https://linkedin.com/in/nagarani1914)  
+[Portfolio](https://nagarani-portfolio.vercel.app/)  
 
 
 > “Frontend is not just about code; it's about emotion, impact, and innovation. Let's build the future together.”
