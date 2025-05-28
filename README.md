@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Nagarani</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | UI/UX Enthusiast | Creative Coder | Future Tech Explorer</h3>
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="35" height="35" />
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="35" />
 
 ### 🌟 About Me
 
