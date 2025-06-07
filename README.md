@@ -1,54 +1,69 @@
 <h1 align="center">Hey there! 👋 I'm Nagarani</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer | UI/UX Enthusiast | Creative Coder | Future Tech Explorer</h3>
+<h3 align="center"> Frontend Developer | UI/UX Visionary | Creative Technologist | Future-Ready Coder</h3>
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" padding="50%" />
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40%" height="200px" alt="coding-gif" />
+</p>
 
-### 🌟 About Me
+---
 
-💻 I craft **aesthetic, responsive, and blazing-fast frontend experiences** with code.  
-✨ I bring **ideas to life** through clean UI, smooth UX, and innovative interfaces.  
-🧠 I’m always learning the **latest web trends** and love building futuristic projects.  
-🎯 On a mission to build projects that solve real problems and impress top recruiters!  
+###  About Me
 
+I’m a frontend developer who doesn’t just *build websites* —  
+I **design digital experiences** that are fast, intuitive, and strikingly beautiful.
 
-### 🛠️ Tech Stack
+-  Passionate about **Frontend developer** that’s clean, interactive, and user-first  
+-  Always exploring **future-forward tech**, from animations to AI-integrated interfaces  
+-  I thrive on **turning ideas into impactful, real-world products**  
 
-#### 🌐 Frontend
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), Java
+---
+
+### 🛠 Tech I Love
+
+####  Frontend Arsenal
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), Java  
 - **Frameworks**: React.js, Tailwind CSS, Bootstrap  
-- **Tools**: Figma, Framer Motion, GSAP, Redux, Vite, Git,Github
+- **Creative Tools**: Framer Motion, GSAP, Figma, Vite, Redux  
 
-#### 💡 Other Skills
-- Git & GitHub, Responsive Design, UI/UX Design  
-- API Integration, REST, JSON, Agile Collaboration  
-- Version Control, Clean Code Practices
+####  Other Strengths
+- Version Control with Git & GitHub  
+- Responsive Design, Accessibility  
+- REST APIs, JSON, Agile Workflows  
+- UI/UX Strategy & Clean Code Practices  
 
-###  Current Goals
+---
 
-- Master advanced React.js concepts  
-- Build futuristic & high-impact web projects  
-- Contribute to Open Source consistently  
-- Learn AI & integrate with frontend projects  
-- Land a role at a top MNC or product company 
+###  Goals I'm Chasing
 
-### 🔥 What Makes Me Stand Out?
+-  Master advanced React.js patterns & performance tricks  
+-  Build futuristic, AI-powered web projects  
+-  Make meaningful contributions to Open Source   
 
-✨ I don’t just code UIs, I **design experiences**.  
-🎨 Obsessed with pixel-perfect detail and interactivity.  
-📚 Constant learner — always working on my next big idea.  
-💡 I think like a developer but also like a **user** and a **designer**.
+---
 
-### 💼 Hire Me If You're Looking For:
+###  Why Me?
 
-✅ A frontend developer who can build **unique, professional, and interactive websites**  
-✅ Someone who is enthusiastic about **innovation and clean design**  
-✅ A creative thinker who loves to work in **fast-paced, real-world projects**
+- I **code with creativity**, not just logic  
+- I care deeply about **every pixel, animation, and transition**  
+- I bridge the gap between **development and design thinking**  
+- I bring the **energy of a beginner**, but the **mindset of a pro**
 
-### 🌐 Let's Connect
+---
 
-[LinkedIn](https://linkedin.com/in/nagarani1914)  
-[Portfolio](https://nagarani-portfolio.vercel.app/)  
+###  Looking For Someone Like Me?
 
+Here’s why teams love working with me:
+✅ I think like a user and design like an artist  
+✅ I build for performance, clarity, and delight  
+✅ I'm obsessed with making the web beautiful & meaningful
+---
 
-> “Frontend is not just about code; it's about emotion, impact, and innovation. Let's build the future together.”
+### 🔗 Let’s Connect
+
+- 🌐 [Portfolio Website](https://nagarani-portfolio.vercel.app/)  
+- 💼 [LinkedIn](https://linkedin.com/in/nagarani1914)  
+
+---
+
+> *“Frontend is not just about code — it's how the world sees your idea. Let's build something unforgettable.”*
 
