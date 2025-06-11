@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40%" height="200px" alt="coding-gif" />
 </div>
 
----
 
 ##  About Me
 I’m not just building websites I’m shaping digital experiences.  
@@ -15,7 +14,6 @@ Clean design, smooth interactions, and thoughtful details? That’s my thing.
 -  Always exploring modern web technologies and creative coding  
 -  On a mission to blend design & development into seamless digital experiences  
 
----
 
 ## 🛠️ Skills & Technologies
 
@@ -37,7 +35,6 @@ Clean design, smooth interactions, and thoughtful details? That’s my thing.
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
----
 
 ### 👀 Looking For Someone Like Me?
 
@@ -54,7 +51,6 @@ Here’s why teams love working with me:
 I bring energy, creativity, and a designer’s mindset to development.  
 I care about code but even more about the **experience it creates**.
 
----
 
 ##  Let's Connect
 
@@ -62,7 +58,6 @@ I care about code but even more about the **experience it creates**.
 - 💼 [LinkedIn](https://www.linkedin.com/in/nagarani1914)  
 - 💌 Email: seelamneninagarani@gmail.com 
 
----
 
 > _"I don’t just code layouts — I craft digital experiences that connect, communicate, and captivate."_  
 > — Nagarani 🌸
