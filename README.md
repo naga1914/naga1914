@@ -10,7 +10,6 @@ Python Developer | MERN Stack Developer | Full Stack Developer
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40%" height="200px" alt="coding-gif"/>
 </div>
 
----
 
 # 👩‍💻 About Me
 
@@ -26,8 +25,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 - 🎖️ Microsoft Learn Student Ambassador Program Participant
 - 💡 Passionate about clean code, scalable architecture, and intuitive UI/UX
 
----
-
 # 🚀 Tech Stack
 
 <div align="center">
@@ -36,19 +33,18 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
----
+
 
 ## 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
----
+
 
 ## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
----
 
 ## 🗄️ Databases
 
@@ -58,7 +54,7 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
+
 
 ## ☁️ Cloud & Deployment
 
@@ -71,7 +67,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
 
 ## 🤖 AI & LLMs
 
@@ -82,7 +77,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
 
 ## 🛠️ Tools & IDEs
 
@@ -94,7 +88,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 </p>
 
 </div>
----
 
 # 🌐 Portfolio
 
@@ -106,7 +99,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 
 </p>
 
----
 
 # 🤝 Let's Connect
 
@@ -134,7 +126,6 @@ I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer
 
 </p>
 
----
 
 <div align="center">
 
