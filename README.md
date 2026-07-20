@@ -1,93 +1,145 @@
-<h1 align="center">Hi, I'm Nagarani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">MERN Stack Engineer | UI/UX Enthusiast | AI-Powered Web Innovator</h3>
+<h1 align="center">
+  Hi, I'm Nagarani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">
+Python Developer | MERN Stack Developer | Full Stack Developer
+</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40%" height="200px" alt="coding-gif" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="40%" height="200px" alt="coding-gif"/>
 </div>
 
-##  About Me
+---
 
-I'm not just writing code — I'm building intelligent, scalable, and beautiful web experiences.  
-From frontend finesse to backend brains, I love bringing ideas to life with the MERN stack and a user-first mindset.
+# 👩‍💻 About Me
 
--  Full-Stack Developer (MongoDB, Express, React, Node.js)
--  Designing intuitive, clean, and engaging UI/UX
--  Exploring AI-powered web interfaces & smart app features
--  Passionate about turning complex ideas into simple, functional solutions
--  Always learning, building, and contributing to open source
+I'm a **Python Developer**, **MERN Stack Developer**, and **Full Stack Developer** passionate about building scalable web applications, AI-powered solutions, and modern user experiences.
+
+- 💻 Python, MERN Stack & Full Stack Development
+- 🚀 Developed a production-ready business website for **SEOM Projects & Engineering Services LLP**
+- 🏆 Smart India Hackathon 2025 Grand Finalist | Team Lead & Frontend Developer
+- 🌸 GirlScript Summer of Code (GSSoC) Contributor | Contributed to 2 Open Source Projects
+- 🤖 Experienced in integrating AI using Gemini, Claude, Hugging Face & OpenAI APIs
+- ☁️ Hands-on experience with Docker, GitHub Actions, CI/CD, AWS, Amazon ECR & Amazon ECS
+- 🎓 Infosys Pragathi Program Participant
+- 🎖️ Microsoft Learn Student Ambassador Program Participant
+- 💡 Passionate about clean code, scalable architecture, and intuitive UI/UX
 
 ---
 
-##  Skills & Technologies
+# 🚀 Tech Stack
 
 <div align="center">
 
-  ###  Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
 ---
 
-###  Backend & Dev Tools
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 ---
 
-###  Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 
 ---
 
-###  AI & ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge&logo=apache-spark&logoColor=white" />
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-###  CS Fundamentals
-<img src="https://img.shields.io/badge/Data_Structures-8E24AA?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Algorithms-3F51B5?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Operating_Systems-5E35B1?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Networks-1976D2?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/OOPs-FF5722?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+## ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-##  Why Work With Me?
+## 🤖 AI & LLMs
 
-I blend creativity and logic to build full-stack solutions that work and wow.  
-Obsessed with smooth UI/UX and scalable backend systems.  
-I love collaboration, clean code, and delivering meaningful digital products.
-
-“I don’t just code layouts — I craft digital experiences that connect, communicate, and captivate.”_  
- Nagarani
-
----
-
-##  Let's Connect
-  [Portfolio](https://nagarani-portfolio.vercel.app/)  
-  [LinkedIn](https://www.linkedin.com/in/nagarani1914)  
-  Email: seelamneninagarani@gmail.com  
+<p>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 ---
 
+## 🛠️ Tools & IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+<p>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge"/>
+</p>
+
+</div>
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://nagarani-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nagarani1914">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seelamneninagarani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naga1914">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/SNagarani1419">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://nagarani-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Building scalable web applications with modern technologies, AI, and clean architecture.
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+
+</div>
